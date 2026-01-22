@@ -1,4 +1,4 @@
-// Your Name: 
+// Your Name: James Latten
 // Notes: The instructions are found in comments through the code starting with "Step n"
 //        Please leave the comments and add your code just after the comment.
 //        Use the examples in the book to complete the lab.
